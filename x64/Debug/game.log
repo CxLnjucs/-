@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\uu\source\repos\game\main.cpp(20,22): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\uu\source\repos\game\main.cpp(171,36): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(177,22): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(217,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(217,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(423,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(423,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(427,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(427,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(430,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(430,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(436,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(436,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(439,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(439,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(456,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(456,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(463,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(463,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(465,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(465,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\uu\source\repos\game\main.cpp(540,33): warning C4002: 类函数宏的调用“RGB”参数过多
+C:\Users\uu\source\repos\game\main.cpp(541,33): warning C4002: 类函数宏的调用“RGB”参数过多
+x64\Debug\button.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  game.vcxproj -> C:\Users\uu\source\repos\game\x64\Debug\game.exe
